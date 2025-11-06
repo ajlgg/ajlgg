@@ -1,7 +1,7 @@
 # Hello!
 
 
-## My name is AJ Luthra, and I am a senior computer science major at Ursinus College, and I am eager to learning and enhancing my skills in software engineering for full-stack development.
+## My name is AJ Luthra, and I am a senior majoring in Computer Science at Ursinus College. I am eager to continue learning and enhancing my skills in software engineering, particularly in full-stack development.
 
 **How you can reach me if you have any questions, or need to talk to me:**
 

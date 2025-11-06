@@ -8,5 +8,5 @@
 - Email: luthraa223@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aj-luthra2003/
 
-## For more information and to view my projects please visit my [portfolio](https://ajlgg.github.io/my-portfolio/). Thank you!
+## For more information and to view my projects please visit my [portfolio](https://ajlgg.github.io/my-portfolio/). Thank you!👍
 
